@@ -5,7 +5,12 @@
 ## 참고
 * [참고 사이트](http://jeonghwan-kim.github.io/dev/2019/06/25/react-ts.html)
 
-## 설치
+## create-react-app 사용해서 설치
+```js
+$ create-react-app {app-name} --typescript
+```
+
+## 설치(create-react-app 사용안함)
 1. **npm 초기화**
 ```js
 $ npm init -y
